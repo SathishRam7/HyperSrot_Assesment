@@ -31,7 +31,6 @@ public class ShoppingController {
 	private CouponService couponService;
 	@Autowired
 	private ProductService productService;
-
 	@Autowired
 	private PaymentService paymentservice;
 
