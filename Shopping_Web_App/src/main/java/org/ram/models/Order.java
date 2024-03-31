@@ -25,7 +25,7 @@ public class Order {
     private String coupon;
     private Integer amount;
     private Integer quantity;
-    
+
     private String date;
     
     
