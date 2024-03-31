@@ -2,7 +2,7 @@ package org.ram.dto;
 
 public class ErrorResponse {
 	 private String description;
-
+	
 	    public ErrorResponse(String description) {
 	        this.description = description;
 	    }
